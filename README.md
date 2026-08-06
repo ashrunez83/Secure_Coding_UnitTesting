@@ -5,6 +5,22 @@ This repository demonstrates secure software development principles, defensive p
 The project focuses on writing maintainable, secure code while validating functionality through structured testing and debugging practices.
 
 ---
+## Project Screenshots
+
+### Google Test Fixture
+This test uses the Google Test Framework to validate application functionality through automated unit testing. The test suite verifies expected behavior across multiple scenarios and confirms successful execution of all test cases.
+![Google Test Fixture](GoogleTestFixture.jpg)
+
+### Numeric Overflow & Underflow Testing
+
+Boundary-value testing was performed to validate application behavior when processing numeric overflow and underflow conditions across multiple data types. These tests demonstrate defensive programming techniques and validation of edge-case behavior.
+![Numeric Overflow & Underflow](NumericOverflow_Underflow.jpg)
+
+## SQl Injection Testing
+
+Implemented Regex-based input validation to detect and block common SQL injection patterns before database execution, preventing malicious queries and demonstrating secure coding practices.
+![SQL Injection Detection](sqlinjection.jpg)
+
 
 ## Skills Demonstrated
 
