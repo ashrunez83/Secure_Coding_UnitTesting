@@ -19,7 +19,7 @@ Boundary-value testing was performed to validate application behavior when proce
 ## SQl Injection Testing
 
 Implemented Regex-based input validation to detect and block common SQL injection patterns before database execution, preventing malicious queries and demonstrating secure coding practices.
-![SQL Injection Detection](sqlinjection.jpg)
+![SQL Injection Detection](sqlInjection.jpg)
 
 
 ## Skills Demonstrated
